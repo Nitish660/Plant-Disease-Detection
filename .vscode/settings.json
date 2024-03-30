@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "env",
+    "isort.interpreter": [
+        "python"
+    ]
+}
